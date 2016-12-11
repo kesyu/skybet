@@ -1,0 +1,10 @@
+skybet:
+  welcome: Hello and welcome to the SkyBet technical test by Eva Balazsfalvi.
+
+skybet.url:
+  root: http://skybettechtestapi.herokuapp.com
+  available: /available
+  bets: /bets
+
+skybet.connection:
+  timeout: 10000
